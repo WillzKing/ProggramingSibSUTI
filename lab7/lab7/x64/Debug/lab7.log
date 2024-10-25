@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\stoll\source\repos\lab7\lab7\main.c(9,26): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\stoll\source\repos\lab7\lab7\main.c(19,26): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+  lab7.vcxproj -> C:\Users\stoll\source\repos\lab7\x64\Debug\lab7.exe
