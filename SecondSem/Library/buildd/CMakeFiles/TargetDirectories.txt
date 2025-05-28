@@ -1,0 +1,4 @@
+C:/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib/buildd/CMakeFiles/phonebook.dir
+C:/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib/buildd/CMakeFiles/phonebook_app.dir
+C:/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib/buildd/CMakeFiles/ALL_BUILD.dir
+C:/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib/buildd/CMakeFiles/ZERO_CHECK.dir

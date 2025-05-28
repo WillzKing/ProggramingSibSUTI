@@ -1,0 +1,25 @@
+﻿  main.c
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(9,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(18,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(19,8): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(35,2): warning C4013: arrfeelzero: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(37,2): warning C4013: enterarr: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(38,2): warning C4013: arrprint: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(39,2): warning C4013: arronelevelprint: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(40,8): warning C4013: slaucount: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(42,3): warning C4013: arronelevelcharprint: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(11,9): warning C4101: j: неиспользованная локальная переменная
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(54,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int **"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(61,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int **"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(70,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int **"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(75,11): warning C4013: determcount: нет определения; предполагается "extern" с возвратом типа "int"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(146,9): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(195,18): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(218,42): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(229,42): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(241,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int **"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(262,27): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(251,1): warning C4716: arrprint: должна возвращать значение
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(258,1): warning C4716: arronelevelprint: должна возвращать значение
+C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\newlab\main.c(270,1): warning C4716: arronelevelcharprint: должна возвращать значение
+  newlab.vcxproj -> C:\ProgrammingProjects\ProggramingSibSUTI\lab8\newlab\x64\Debug\newlab.exe

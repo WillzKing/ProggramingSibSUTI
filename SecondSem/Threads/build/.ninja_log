@@ -1,0 +1,14 @@
+# ninja log v6
+4	598	7681554803054465	CMakeFiles/laba7.dir/src/main.c.obj	713b36c00ccdf3a8
+24	679	7681554803384501	CMakeFiles/laba7.dir/src/matrix_multiplication.c.obj	5f0cf1c780fcaffa
+15	696	7681554803174474	CMakeFiles/laba7.dir/src/basic_threads.c.obj	38fee210f5d65876
+66	5347	7681554803754380	CMakeFiles/laba7.dir/src/philosophers.c.obj	cebac7d0ae66fce
+54	5354	7681554803574429	CMakeFiles/laba7.dir/src/message_queue.c.obj	bccaaa9a13352e49
+5354	5613	7681554856555994	laba7.exe	f6c10dc40899fd86
+18	1188	7683160074175634	CMakeFiles/laba7.dir/src/main.c.obj	713b36c00ccdf3a8
+1189	2258	7683160085882570	laba7.exe	f6c10dc40899fd86
+224	2233	7689167468840750	CMakeFiles/laba7.dir/src/main.c.obj	713b36c00ccdf3a8
+429	2840	7689167470873979	CMakeFiles/laba7.dir/src/message_queue.c.obj	bccaaa9a13352e49
+2840	3632	7689167494993580	laba7.exe	f6c10dc40899fd86
+39	1149	7689175970224827	CMakeFiles/laba7.dir/src/message_queue.c.obj	bccaaa9a13352e49
+1150	1323	7689175981346354	laba7.exe	f6c10dc40899fd86

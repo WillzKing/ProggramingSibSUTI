@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ai.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ai.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\deck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:deck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ai.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ai.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\deck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\deck.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ui.h",
+              "RelativeDocumentMoniker": "ui.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ui.h",
+              "RelativeToolTip": "ui.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T01:49:57.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T01:38:23.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\player.h",
+              "RelativeDocumentMoniker": "player.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\player.h",
+              "RelativeToolTip": "player.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T01:15:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\game.c",
+              "RelativeDocumentMoniker": "game.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\game.c",
+              "RelativeToolTip": "game.c",
+              "ViewState": "AgIAANYAAAAAAAAAAAAIwO0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T01:12:54.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T01:12:32.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "deck.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\deck.h",
+              "RelativeDocumentMoniker": "deck.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\deck.h",
+              "RelativeToolTip": "deck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T01:12:12.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "deck.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\deck.c",
+              "RelativeDocumentMoniker": "deck.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\deck.c",
+              "RelativeToolTip": "deck.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T01:12:09.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "player.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\player.c",
+              "RelativeDocumentMoniker": "player.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\player.c",
+              "RelativeToolTip": "player.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T01:09:49.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ai.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ai.c",
+              "RelativeDocumentMoniker": "ai.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ai.c",
+              "RelativeToolTip": "ai.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T01:07:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ui.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ui.c",
+              "RelativeDocumentMoniker": "ui.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\ui.c",
+              "RelativeToolTip": "ui.c",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAIwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T01:07:13.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T01:04:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ai.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ai.h",
+              "RelativeDocumentMoniker": "src\\ai.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ai.h",
+              "RelativeToolTip": "src\\ai.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:57:38.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ai.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ai.c",
+              "RelativeDocumentMoniker": "src\\ai.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ai.c",
+              "RelativeToolTip": "src\\ai.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T00:57:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ui.h",
+              "RelativeDocumentMoniker": "src\\ui.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ui.h",
+              "RelativeToolTip": "src\\ui.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:57:28.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ui.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ui.c",
+              "RelativeDocumentMoniker": "src\\ui.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\ui.c",
+              "RelativeToolTip": "src\\ui.c",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T00:57:19.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\game.h",
+              "RelativeDocumentMoniker": "src\\game.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\game.h",
+              "RelativeToolTip": "src\\game.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:57:12.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "game.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\game.c",
+              "RelativeDocumentMoniker": "src\\game.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\game.c",
+              "RelativeToolTip": "src\\game.c",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T00:57:06.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\player.h",
+              "RelativeDocumentMoniker": "src\\player.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\player.h",
+              "RelativeToolTip": "src\\player.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:56:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "player.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\player.c",
+              "RelativeDocumentMoniker": "src\\player.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\player.c",
+              "RelativeToolTip": "src\\player.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T00:56:47.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "deck.h",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\deck.h",
+              "RelativeDocumentMoniker": "src\\deck.h",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\deck.h",
+              "RelativeToolTip": "src\\deck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:56:39.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "deck.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\deck.c",
+              "RelativeDocumentMoniker": "src\\deck.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\deck.c",
+              "RelativeToolTip": "src\\deck.c",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T00:56:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\main.c",
+              "RelativeDocumentMoniker": "src\\main.c",
+              "ToolTip": "C:\\ProgrammingProjects\\ProggramingSibSUTI\\SecondSem\\RGR\\src\\main.c",
+              "RelativeToolTip": "src\\main.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T00:56:23.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

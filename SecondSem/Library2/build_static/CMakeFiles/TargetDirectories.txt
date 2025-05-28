@@ -1,0 +1,4 @@
+/mnt/c/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib2/build_static/CMakeFiles/matrix.dir
+/mnt/c/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib2/build_static/CMakeFiles/matrix_program.dir
+/mnt/c/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib2/build_static/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Георгий/labs/GIT/programm_sib/sem2_prog/lab_lib2/build_static/CMakeFiles/rebuild_cache.dir

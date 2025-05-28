@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/matrix_program.dir/src/main.c.o -o matrix_program  libmatrix.a 

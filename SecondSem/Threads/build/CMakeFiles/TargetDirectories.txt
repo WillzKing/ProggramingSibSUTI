@@ -1,0 +1,3 @@
+C:/Users/Георгий/labs/GIT/programm_sib/sem2_prog/potok/build/CMakeFiles/laba7.dir
+C:/Users/Георгий/labs/GIT/programm_sib/sem2_prog/potok/build/CMakeFiles/edit_cache.dir
+C:/Users/Георгий/labs/GIT/programm_sib/sem2_prog/potok/build/CMakeFiles/rebuild_cache.dir
